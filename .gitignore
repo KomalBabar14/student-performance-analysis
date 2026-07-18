@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Charts (optional)
+# charts/
+
+# VS Code
+.vscode/
